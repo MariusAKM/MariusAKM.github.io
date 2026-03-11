@@ -1,5 +1,16 @@
 {
   "appclips": {
     "apps": ["R3G6KKKSD9.com.mycompany.mindrclip.Clip"]
+  },
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["R3G6KKKSD9.com.mycompany.mindrclip"],
+        "components": [
+          { "/": "/open", "comment": "Event deep link" },
+          { "/": "/e/*", "comment": "NFC event/profile links" }
+        ]
+      }
+    ]
   }
 }
