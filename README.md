@@ -1,0 +1,2 @@
+# MariusAKM.github.io
+MINDR
